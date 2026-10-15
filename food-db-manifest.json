@@ -1,11 +1,11 @@
 {
   "version": 3,
   "mobile": {
-    "url": "https://github.com/efem-inc/nutrition-off-data/releases/download/food-db-v3/nutritionSQLite.zip",
+    "url": "https://github.com/weft-witch-labs/ryesoma-off-data/releases/download/food-db-v3/nutritionSQLite.zip",
     "bytes": 672725225
   },
   "desktop": {
-    "url": "https://github.com/efem-inc/nutrition-off-data/releases/download/food-db-v3/nutrition-sqlite.zip",
+    "url": "https://github.com/weft-witch-labs/ryesoma-off-data/releases/download/food-db-v3/nutrition-sqlite.zip",
     "bytes": 760546199
   }
 }
